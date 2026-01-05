@@ -31,8 +31,12 @@ El sistema está diseñado para **ser intuitivo y fácil de usar**, pensado para
 ![Registro](img/registro.jpeg)  
 
 **Dashboard administrador:**  
-![Dashboard](img/dashboard.jpeg)  
+![Dashboard](img/dashboard.jpeg)
 
+**Pagina Principal:**  
+![Pagina](img/paginaprincipal.jpeg) 
+
+📜 License - Copyright (c) 2026  Maria Celeste Ortiz - Fernanda Estrada
 
 # React + Vite
 
