@@ -25,13 +25,13 @@ El sistema está diseñado para **ser intuitivo y fácil de usar**, pensado para
 ## 📸 Capturas
 
 **Listado de mascotas:**  
-![Listado](img/listado.png)  
+![Listado](img/lista.jpeg)  
 
 **Formulario de registro:**  
-![Registro](img/registro.png)  
+![Registro](img/registro.jpeg)  
 
-**Detalle de mascota:**  
-![Detalle](img/detalle.png)  
+**Dashboard administrador:**  
+![Dashboard](img/dashboard.jpeg)  
 
 
 # React + Vite
