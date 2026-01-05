@@ -1,3 +1,39 @@
+# 🍀 Proyecto Adopciones - Sistema CRUD de Mascotas
+
+## 📝 Descripción
+
+Este proyecto es una **aplicación web para la gestión de adopciones de mascotas**. Permite:
+
+- Registrar nuevas mascotas disponibles para adopción.  
+- Ver el listado de mascotas con sus detalles (nombre, edad, especie, raza).  
+- Editar la información de las mascotas existentes.  
+- Eliminar registros de mascotas adoptadas.  
+
+El sistema está diseñado para **ser intuitivo y fácil de usar**, pensado para refugios de animales.
+
+---
+
+## 💻 Tecnologías
+
+- **Backend:** PHP / Laravel  
+- **Frontend:** HTML, CSS, JavaScript, Blade  
+- **Base de datos:** MySQL  
+- **Control de versiones:** Git & GitHub  
+
+---
+
+## 📸 Capturas
+
+**Listado de mascotas:**  
+![Listado](img/listado.png)  
+
+**Formulario de registro:**  
+![Registro](img/registro.png)  
+
+**Detalle de mascota:**  
+![Detalle](img/detalle.png)  
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
